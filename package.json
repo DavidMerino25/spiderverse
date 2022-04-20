@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Semana 3 Práctica 2 Mission Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test":"node --experimental-vm-modules ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMerino25/spiderverse.git"
+  },
+  "author": "David Merino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMerino25/spiderverse/issues"
+  },
+  "homepage": "https://github.com/DavidMerino25/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
