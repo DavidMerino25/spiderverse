@@ -7,7 +7,9 @@ class Spiderman {
         this.studio=studio
 
     }
+    getinfo= function () {
+        return (`Hey, I'm ${this.actor} from ${this.studio}`)
+    }
   }
-  
-  
+
   module.exports = Spiderman
